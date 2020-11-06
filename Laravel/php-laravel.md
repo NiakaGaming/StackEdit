@@ -1,7 +1,87 @@
+**PHP-LARAVEL STRUCTURE**
+```php
+// dd for debugger
+{{dd($panier)}}
+
+// Array
+$panier = ["dfez", "sdz"]
+
+// Object
+$panier = (object) ["keyname1" => "sdz", "keyname2" => "aze"]
+
+// foreach loop version laravel
+@foreach($panier as $element)
+	{{$element}}
+@endforeach
+
+// for loop version laravel
+@for($i = 0; $i < 3; $i++)
+	{{$i}}
+@endfor
+
+// HELPERS
+view()    = view folder
+compact() = in view() method, send $var to html view
+env()     = .env folder
+asset()   = public folder
+
+$loop is a var that can be called in any loop
+
+@section('my content') = select the content to be field in the appropriate yield
+@yield('my content')   = placeholder for the appropriate section
+@extends("my view")	   = étends à partir de tout en haut
+@include("my view")	   = inclus là où est le "@include"
+```
+**ROUTE**
+```php
+// view/pages/home.blade.php
+Route::get('/', function () {
+	return  view('pages.home');
+});
+// Name the route
+Route::get('/', function () {
+	return  view('pages.home');
+})->name('myRoute');
+```
 
 
+**CONTROLLER**
+```php
+// TO CREATE A CONTROLLER
+php artisan make:controller ViewnameController
 
-> Written with [StackEdit](https://stackedit.io/).
+// IN CONTROLLER CLASS
+public function index(){
+	return view('viewname');
+}
+
+// IN ROUTE
+use App\Http\Controllers\ViewnameController
+route::get("/", [ViewnameController::class, "index"]);
+```
+
+**MODELS**
+```php
+// With dbName capital letter
+// "-c" make a controller with it
+php artisan make:model <tableName> -c
+// then in route
+use App\Models\<modelName>;
+// in model 
+$var = <modelName>::all('*');
+```
+**MIGRATION**
+```php
+// migrate files to ur db
+php artisan migrate
+// reload all migrations files (to update files)
+php artisan migrate:fresh
+// Create migration file (create first & table last)
+php artisan make:migration create_<tableName>_table
+```
+
+
+https://cdn.discordapp.com/attachments/724551677939679233/772738294680256542/Capture_decran_du_2020-11-02_09-25-12.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMzQwMDgyODAxXX0=
 -->
