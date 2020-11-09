@@ -82,6 +82,8 @@ php artisan make:migration create_<tableName>_table
 
 
 https://cdn.discordapp.com/attachments/724551677939679233/772738294680256542/Capture_decran_du_2020-11-02_09-25-12.png
+
+https://cdn.discordapp.com/attachments/724552181138587739/775276627016941578/Capture_decran_du_2020-11-09_09-31-12.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwMDgyODAxXX0=
+eyJoaXN0b3J5IjpbNDA4NzE1MjYzXX0=
 -->
