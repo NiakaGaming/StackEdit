@@ -89,6 +89,59 @@ EDIT
 UPDATE
 DESTROY
 ```
+```php
+public  function  index()
+
+{
+
+return  view("pages.home");
+
+}
+
+public  function  create()
+{
+return  view("pages.home");
+}
+public  function  store()
+
+{
+
+return  view("pages.home");
+
+}
+
+public  function  show()
+
+{
+
+return  view("pages.home");
+
+}
+
+public  function  edit()
+
+{
+
+return  view("pages.home");
+
+}
+
+public  function  update()
+
+{
+
+return  view("pages.home");
+
+}
+
+public  function  destroy()
+
+{
+
+return  view("pages.home");
+
+}
+```
 **SEEDER**
 ```php
 php artisan make:seeder <tableName>Seeder
@@ -110,6 +163,7 @@ https://cdn.discordapp.com/attachments/724551677939679233/772738294680256542/Cap
 
 https://cdn.discordapp.com/attachments/724552181138587739/775276627016941578/Capture_decran_du_2020-11-09_09-31-12.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzI3NzU1LDc3MDM3NjUyMCwxOTU4MD
-Q2NTcwLC0yOTQ5Njg3OTEsNDA4NzE1MjYzXX0=
+eyJoaXN0b3J5IjpbLTg3NTQyNTQyOCwxNzI3Mjc3NTUsNzcwMz
+c2NTIwLDE5NTgwNDY1NzAsLTI5NDk2ODc5MSw0MDg3MTUyNjNd
+fQ==
 -->
