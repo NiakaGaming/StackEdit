@@ -91,9 +91,14 @@ DESTROY
 ```
 **SEEDER**
 ```php
-php artisan make:seeder <tableName>
+php artisan make:seeder <tableName>Seeder
 
-// databaseSeeder.php call avery
+// databaseSeeder.php call every seeder files
+
+```
+**EXEMPLE**
+```php
+
 ```
 
 
@@ -101,6 +106,6 @@ https://cdn.discordapp.com/attachments/724551677939679233/772738294680256542/Cap
 
 https://cdn.discordapp.com/attachments/724552181138587739/775276627016941578/Capture_decran_du_2020-11-09_09-31-12.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzOTkwMTkzLDE5NTgwNDY1NzAsLTI5ND
-k2ODc5MSw0MDg3MTUyNjNdfQ==
+eyJoaXN0b3J5IjpbLTQzODkzMjg3NCwxOTU4MDQ2NTcwLC0yOT
+Q5Njg3OTEsNDA4NzE1MjYzXX0=
 -->
