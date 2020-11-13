@@ -99,14 +99,10 @@ php artisan migrate:fresh --seed
 ```
 **NEEDED FILES IN A LARAVEL PROJECT (membre table exemple)**
 ```php
-// MODEL
-Membre.php 
-// CONTROLLER
-MembreController.php
-// MIGRATION
-create_membres_table.php
-// SEEDER
-MembreSeeder.php
+Membre.php -- MODEL
+MembreController.php -- CONTROLLER
+create_membres_table.php -- MIGRATION
+MembreSeeder.php -- SEEDER
 ```
 
 
@@ -114,6 +110,6 @@ https://cdn.discordapp.com/attachments/724551677939679233/772738294680256542/Cap
 
 https://cdn.discordapp.com/attachments/724552181138587739/775276627016941578/Capture_decran_du_2020-11-09_09-31-12.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTk1MjQyOSw3NzAzNzY1MjAsMTk1OD
+eyJoaXN0b3J5IjpbLTM1NDA1OTM1Myw3NzAzNzY1MjAsMTk1OD
 A0NjU3MCwtMjk0OTY4NzkxLDQwODcxNTI2M119
 -->
