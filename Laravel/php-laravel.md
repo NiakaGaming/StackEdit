@@ -89,11 +89,18 @@ EDIT
 UPDATE
 DESTROY
 ```
+**SEEDER**
+```php
+php artisan make:seeder <tableName>
+
+// databaseSeeder.php call avery
+```
+
 
 https://cdn.discordapp.com/attachments/724551677939679233/772738294680256542/Capture_decran_du_2020-11-02_09-25-12.png
 
 https://cdn.discordapp.com/attachments/724552181138587739/775276627016941578/Capture_decran_du_2020-11-09_09-31-12.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODA0NjU3MCwtMjk0OTY4NzkxLDQwOD
-cxNTI2M119
+eyJoaXN0b3J5IjpbNzAzOTkwMTkzLDE5NTgwNDY1NzAsLTI5ND
+k2ODc5MSw0MDg3MTUyNjNdfQ==
 -->
