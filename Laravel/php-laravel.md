@@ -58,6 +58,10 @@ public function index(){
 // IN ROUTE
 use App\Http\Controllers\ViewnameController
 route::get("/", [ViewnameController::class, "index"]);
+
+// Controller w/ all function needed
+php artisan make:controller ViewnameController -r
+
 ```
 
 **MODELS**
@@ -65,6 +69,8 @@ route::get("/", [ViewnameController::class, "index"]);
 // With dbName capital letter
 // "-c" make a controller with it
 php artisan make:model <tableName> -c
+// "-cms" make a controller, a seeder and a model
+php artisan make:model <tableName> -cms
 // "-cms" make a controller, a seeder and a model
 php artisan make:model <tableName> -cms
 // then in route
@@ -145,7 +151,7 @@ https://cdn.discordapp.com/attachments/724551677939679233/772738294680256542/Cap
 
 https://cdn.discordapp.com/attachments/724552181138587739/775276627016941578/Capture_decran_du_2020-11-09_09-31-12.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzA0ODkxMywzNzk5OTc0MTQsMTcyNz
-I3NzU1LDc3MDM3NjUyMCwxOTU4MDQ2NTcwLC0yOTQ5Njg3OTEs
-NDA4NzE1MjYzXX0=
+eyJoaXN0b3J5IjpbLTExMDgzMzU5MjUsLTMyNzA0ODkxMywzNz
+k5OTc0MTQsMTcyNzI3NzU1LDc3MDM3NjUyMCwxOTU4MDQ2NTcw
+LC0yOTQ5Njg3OTEsNDA4NzE1MjYzXX0=
 -->
