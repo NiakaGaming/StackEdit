@@ -65,6 +65,8 @@ route::get("/", [ViewnameController::class, "index"]);
 // With dbName capital letter
 // "-c" make a controller with it
 php artisan make:model <tableName> -c
+// "-cms" make a controller, a seeder and a model
+php artisan make:model <tableName> -cms
 // then in route
 use App\Models\<modelName>;
 // in model 
@@ -143,7 +145,7 @@ https://cdn.discordapp.com/attachments/724551677939679233/772738294680256542/Cap
 
 https://cdn.discordapp.com/attachments/724552181138587739/775276627016941578/Capture_decran_du_2020-11-09_09-31-12.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5OTk3NDE0LDE3MjcyNzc1NSw3NzAzNz
-Y1MjAsMTk1ODA0NjU3MCwtMjk0OTY4NzkxLDQwODcxNTI2M119
-
+eyJoaXN0b3J5IjpbLTMyNzA0ODkxMywzNzk5OTc0MTQsMTcyNz
+I3NzU1LDc3MDM3NjUyMCwxOTU4MDQ2NTcwLC0yOTQ5Njg3OTEs
+NDA4NzE1MjYzXX0=
 -->
