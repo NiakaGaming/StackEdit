@@ -139,6 +139,10 @@ php artisan make:seeder <tableName>Seeder
 // then in console
 php artisan migrate:fresh --seed
 ```
+
+php artisan make:factory MembreFactory
+
+
 **NEEDED FILES IN A LARAVEL PROJECT (membre table exemple)**
 ```php
 Membre.php -- MODEL
@@ -152,7 +156,7 @@ https://cdn.discordapp.com/attachments/724551677939679233/772738294680256542/Cap
 
 https://cdn.discordapp.com/attachments/724552181138587739/775276627016941578/Capture_decran_du_2020-11-09_09-31-12.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzkyNzU3OCwtMjExNDkwNjQ3MCwtMz
+eyJoaXN0b3J5IjpbLTk3ODE1MzczNiwtMjExNDkwNjQ3MCwtMz
 I3MDQ4OTEzLDM3OTk5NzQxNCwxNzI3Mjc3NTUsNzcwMzc2NTIw
 LDE5NTgwNDY1NzAsLTI5NDk2ODc5MSw0MDg3MTUyNjNdfQ==
 -->
