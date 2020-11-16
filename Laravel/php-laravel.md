@@ -143,7 +143,7 @@ php artisan migrate:fresh --seed
 **FACTORY**
 ```php
 php artisan make:factory <tableName>Factory
-php 
+php artisan db:seed
 ```
 
 **NEEDED FILES IN A LARAVEL PROJECT (membre table exemple)**
@@ -163,8 +163,8 @@ https://cdn.discordapp.com/attachments/724551677939679233/772738294680256542/Cap
 
 https://cdn.discordapp.com/attachments/724552181138587739/775276627016941578/Capture_decran_du_2020-11-09_09-31-12.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Nzg4MzEwNiw0NDAxMTY3NzYsLTE1Mj
-g0MDk0MzEsLTIxMTQ5MDY0NzAsLTMyNzA0ODkxMywzNzk5OTc0
-MTQsMTcyNzI3NzU1LDc3MDM3NjUyMCwxOTU4MDQ2NTcwLC0yOT
-Q5Njg3OTEsNDA4NzE1MjYzXX0=
+eyJoaXN0b3J5IjpbLTE1NTk3OTc4ODcsNDQwMTE2Nzc2LC0xNT
+I4NDA5NDMxLC0yMTE0OTA2NDcwLC0zMjcwNDg5MTMsMzc5OTk3
+NDE0LDE3MjcyNzc1NSw3NzAzNzY1MjAsMTk1ODA0NjU3MCwtMj
+k0OTY4NzkxLDQwODcxNTI2M119
 -->
