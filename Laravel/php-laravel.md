@@ -159,13 +159,18 @@ MembreFactory.php -- FACTORY
 Seeder = tests précis
 Factory = beaucoup de données
 
+***
+**ROUTES**
+https://cdn.discordapp.com/attachments/724551677939679233/776820012757155840/Capture_decran_du_2020-11-13_15-44-47.png
+***
 
 https://cdn.discordapp.com/attachments/724551677939679233/772738294680256542/Capture_decran_du_2020-11-02_09-25-12.png
 
 https://cdn.discordapp.com/attachments/724552181138587739/775276627016941578/Capture_decran_du_2020-11-09_09-31-12.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzgxODYzOCwtMTU1OTc5Nzg4Nyw0ND
-AxMTY3NzYsLTE1Mjg0MDk0MzEsLTIxMTQ5MDY0NzAsLTMyNzA0
-ODkxMywzNzk5OTc0MTQsMTcyNzI3NzU1LDc3MDM3NjUyMCwxOT
-U4MDQ2NTcwLC0yOTQ5Njg3OTEsNDA4NzE1MjYzXX0=
+eyJoaXN0b3J5IjpbLTIwMzI4MjI2MDQsMTE4MzgxODYzOCwtMT
+U1OTc5Nzg4Nyw0NDAxMTY3NzYsLTE1Mjg0MDk0MzEsLTIxMTQ5
+MDY0NzAsLTMyNzA0ODkxMywzNzk5OTc0MTQsMTcyNzI3NzU1LD
+c3MDM3NjUyMCwxOTU4MDQ2NTcwLC0yOTQ5Njg3OTEsNDA4NzE1
+MjYzXX0=
 -->
