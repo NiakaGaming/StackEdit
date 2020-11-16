@@ -153,13 +153,17 @@ create_membres_table.php -- MIGRATION
 MembreSeeder.php -- SEEDER
 MembreFactory.php -- FACTORY
 ```
+**SEEDER VS FACTORY**
+Seeder = tests précis
+Factory = beaucoup de données
 
 
 https://cdn.discordapp.com/attachments/724551677939679233/772738294680256542/Capture_decran_du_2020-11-02_09-25-12.png
 
 https://cdn.discordapp.com/attachments/724552181138587739/775276627016941578/Capture_decran_du_2020-11-09_09-31-12.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjg0MDk0MzEsLTIxMTQ5MDY0NzAsLT
-MyNzA0ODkxMywzNzk5OTc0MTQsMTcyNzI3NzU1LDc3MDM3NjUy
-MCwxOTU4MDQ2NTcwLC0yOTQ5Njg3OTEsNDA4NzE1MjYzXX0=
+eyJoaXN0b3J5IjpbNDQwMTE2Nzc2LC0xNTI4NDA5NDMxLC0yMT
+E0OTA2NDcwLC0zMjcwNDg5MTMsMzc5OTk3NDE0LDE3MjcyNzc1
+NSw3NzAzNzY1MjAsMTk1ODA0NjU3MCwtMjk0OTY4NzkxLDQwOD
+cxNTI2M119
 -->
