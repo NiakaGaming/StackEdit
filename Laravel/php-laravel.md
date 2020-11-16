@@ -24,6 +24,7 @@ view()    = view folder
 compact() = in view() method, send $var to html view
 env()     = .env folder
 asset()   = public folder
+route()	  = 
 
 $loop is a var that can be called in any loop
 
@@ -151,7 +152,7 @@ https://cdn.discordapp.com/attachments/724551677939679233/772738294680256542/Cap
 
 https://cdn.discordapp.com/attachments/724552181138587739/775276627016941578/Capture_decran_du_2020-11-09_09-31-12.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQ5MDY0NzAsLTMyNzA0ODkxMywzNz
-k5OTc0MTQsMTcyNzI3NzU1LDc3MDM3NjUyMCwxOTU4MDQ2NTcw
-LC0yOTQ5Njg3OTEsNDA4NzE1MjYzXX0=
+eyJoaXN0b3J5IjpbLTM4ODE3MDkxOSwtMjExNDkwNjQ3MCwtMz
+I3MDQ4OTEzLDM3OTk5NzQxNCwxNzI3Mjc3NTUsNzcwMzc2NTIw
+LDE5NTgwNDY1NzAsLTI5NDk2ODc5MSw0MDg3MTUyNjNdfQ==
 -->
