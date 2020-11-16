@@ -72,7 +72,7 @@ php artisan make:controller ViewnameController -r
 php artisan make:model <tableName> -c
 // "-cms" make a controller, a seeder and a model
 php artisan make:model <tableName> -cms
-// "-cms" make a controller, a seeder and a model
+// "-cms" make a controller, a seeder and a model (with all resources)
 php artisan make:model <tableName> -cmsr
 // then in route
 use App\Models\<modelName>;
@@ -152,7 +152,7 @@ https://cdn.discordapp.com/attachments/724551677939679233/772738294680256542/Cap
 
 https://cdn.discordapp.com/attachments/724552181138587739/775276627016941578/Capture_decran_du_2020-11-09_09-31-12.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI0ODY3NTcsLTIxMTQ5MDY0NzAsLT
-MyNzA0ODkxMywzNzk5OTc0MTQsMTcyNzI3NzU1LDc3MDM3NjUy
-MCwxOTU4MDQ2NTcwLC0yOTQ5Njg3OTEsNDA4NzE1MjYzXX0=
+eyJoaXN0b3J5IjpbMjAyNzkyNzU3OCwtMjExNDkwNjQ3MCwtMz
+I3MDQ4OTEzLDM3OTk5NzQxNCwxNzI3Mjc3NTUsNzcwMzc2NTIw
+LDE5NTgwNDY1NzAsLTI5NDk2ODc5MSw0MDg3MTUyNjNdfQ==
 -->
