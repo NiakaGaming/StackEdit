@@ -159,6 +159,11 @@ MembreFactory.php -- FACTORY
 Seeder = tests précis
 Factory = beaucoup de données
 
+```php
+'root' => public_path() .  '/',
+'url' => env('APP_URL') .  '/public',
+```
+
 ***
 **ROUTES**
 https://cdn.discordapp.com/attachments/724551677939679233/776820012757155840/Capture_decran_du_2020-11-13_15-44-47.png
@@ -172,9 +177,9 @@ https://cdn.discordapp.com/attachments/724551677939679233/778201878718709760/Cap
 
 https://cdn.discordapp.com/attachments/724551412297760809/780455533772537936/Capture_decran_du_2020-11-23_16-30-45.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzNzAyODYsNzIwMDY5OTE5LC0yMDMyOD
-IyNjA0LDExODM4MTg2MzgsLTE1NTk3OTc4ODcsNDQwMTE2Nzc2
-LC0xNTI4NDA5NDMxLC0yMTE0OTA2NDcwLC0zMjcwNDg5MTMsMz
-c5OTk3NDE0LDE3MjcyNzc1NSw3NzAzNzY1MjAsMTk1ODA0NjU3
-MCwtMjk0OTY4NzkxLDQwODcxNTI2M119
+eyJoaXN0b3J5IjpbMTcyNjk4MDEzMSw1MDM3MDI4Niw3MjAwNj
+k5MTksLTIwMzI4MjI2MDQsMTE4MzgxODYzOCwtMTU1OTc5Nzg4
+Nyw0NDAxMTY3NzYsLTE1Mjg0MDk0MzEsLTIxMTQ5MDY0NzAsLT
+MyNzA0ODkxMywzNzk5OTc0MTQsMTcyNzI3NzU1LDc3MDM3NjUy
+MCwxOTU4MDQ2NTcwLC0yOTQ5Njg3OTEsNDA4NzE1MjYzXX0=
 -->
