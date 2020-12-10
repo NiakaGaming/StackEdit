@@ -163,7 +163,7 @@ Factory = beaucoup de données
 'root' => public_path() .  '/',
 'url' => env('APP_URL') .  '/public',
 ```
-
+**Gates**
 ```php
 // exemple
 ```
@@ -181,10 +181,10 @@ https://cdn.discordapp.com/attachments/724551677939679233/778201878718709760/Cap
 
 https://cdn.discordapp.com/attachments/724551412297760809/780455533772537936/Capture_decran_du_2020-11-23_16-30-45.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5MTI2MDI5LDE3MjY5ODAxMzEsNTAzNz
-AyODYsNzIwMDY5OTE5LC0yMDMyODIyNjA0LDExODM4MTg2Mzgs
-LTE1NTk3OTc4ODcsNDQwMTE2Nzc2LC0xNTI4NDA5NDMxLC0yMT
-E0OTA2NDcwLC0zMjcwNDg5MTMsMzc5OTk3NDE0LDE3MjcyNzc1
-NSw3NzAzNzY1MjAsMTk1ODA0NjU3MCwtMjk0OTY4NzkxLDQwOD
-cxNTI2M119
+eyJoaXN0b3J5IjpbMTkyOTE2NDUxNSwxNzI2OTgwMTMxLDUwMz
+cwMjg2LDcyMDA2OTkxOSwtMjAzMjgyMjYwNCwxMTgzODE4NjM4
+LC0xNTU5Nzk3ODg3LDQ0MDExNjc3NiwtMTUyODQwOTQzMSwtMj
+ExNDkwNjQ3MCwtMzI3MDQ4OTEzLDM3OTk5NzQxNCwxNzI3Mjc3
+NTUsNzcwMzc2NTIwLDE5NTgwNDY1NzAsLTI5NDk2ODc5MSw0MD
+g3MTUyNjNdfQ==
 -->
