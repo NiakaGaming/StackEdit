@@ -2,8 +2,10 @@ SSH - Putty
 SCP - WinSCP
 
 Install Apache
-Installe MySQL
+Install MySQL
+Install PhpMyAdmin
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODY4NzYzMTksLTE1MjQxODg0OTBdfQ
+eyJoaXN0b3J5IjpbLTEwMjE5MzMwNjYsLTE1MjQxODg0OTBdfQ
 ==
 -->
