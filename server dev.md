@@ -11,9 +11,9 @@ SCREEN CMDS
 screen -S fivem
 screen -ls : voire la liste des screen 
 screen -x nomduscreen : se connecter au screen en question
-ctrl + a + d or ctrl + a + ctrl-d : detach window
+ctrl + a + d or ctrl + a, ctrl-d : detach window
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODAyMzQzOSwyMTIxNDIxODIzLC0xMj
-E1NjgwMDc2LC0xMDIxOTMzMDY2LC0xNTI0MTg4NDkwXX0=
+eyJoaXN0b3J5IjpbNDc3MzYyMDU0LDIxMjE0MjE4MjMsLTEyMT
+U2ODAwNzYsLTEwMjE5MzMwNjYsLTE1MjQxODg0OTBdfQ==
 -->
